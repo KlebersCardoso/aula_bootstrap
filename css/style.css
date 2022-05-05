@@ -1,0 +1,37 @@
+body{
+    font: 20px arial, sans-serif;
+    
+}
+
+
+.navbar {
+    
+    background-color: #58FA58;
+}
+
+.quem-somos{
+    background-color: #DBA901 ;
+    color: white;/* Muda  a cor da fonte */
+}
+
+.margin{
+    padding-top: 50px;/* margin-top(cria uma margem com espaço entre o menu) margim padding-top cria uma imagem interna estendi o componente */
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color:#5882FA ;
+    color: blanchedalmond;
+}
+
+.bg-footer{
+
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.serviços{
+
+    
+}
